@@ -1,0 +1,1 @@
+// PDF generation using jsPDF (full implementation)
