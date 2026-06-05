@@ -1,0 +1,1 @@
+// Settings including shop info, AI keys, road factor.
